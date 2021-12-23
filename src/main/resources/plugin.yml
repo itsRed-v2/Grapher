@@ -1,0 +1,12 @@
+name: Grapher
+version: 1.0
+main: fr.xenocraft.grapher.Main
+author: itsRed_v2
+api-version: 1.17
+
+commands:
+  graph:
+    description: Command used to control the graph
+    usage: "/graph enable <graph name>\n
+      /graph disable"
+    permission: xenocraft.command.graph
