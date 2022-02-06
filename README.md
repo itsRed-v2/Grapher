@@ -22,4 +22,4 @@ Si le graph `eight` est actif, certaines sous-commandes supplémentaires sont di
 
 `/graph setAmplitude pitch <valeur>` change l'amplitude du mouvement pitch (vertical).
 
-`/graph setFrequency <yaw|pitch> <valeur` change la "fréquence" du mouvement, autrement dit, le nombre de "boucles" ou "aller-retours" que le mouvement va faire en un seul cycle. Ce paramètre donne des résultats très intéressants avec l'utilisation de décimales.
+`/graph setFrequency <yaw|pitch> <valeur>` change la "fréquence" du mouvement, autrement dit, le nombre de "boucles" ou "aller-retours" que le mouvement va faire en un seul cycle. Ce paramètre donne des résultats très intéressants avec l'utilisation de décimales.
